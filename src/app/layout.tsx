@@ -11,8 +11,8 @@ import { Open_Sans } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Zafira Luxury - Exquisite Traditional Attire',
-  description: 'Discover our collection of luxury makhawir, handcrafted with premium fabrics and intricate designs. Elegance and tradition for modern women.',
+  title: "Zafira Luxury",
+  description: "Discover our collection of luxury makhawir, handcrafted with premium fabrics and intricate designs. Elegance and tradition for modern women.",
   keywords: ["luxury makhawir, traditional attire, Moroccan caftan, elegant dresses, handcrafted fashion, bespoke garments, modest wear, designer kaftan"],
   openGraph: {
     "title": "Zafira Luxury - Exquisite Traditional Attire",
